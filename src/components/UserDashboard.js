@@ -24,7 +24,7 @@ export default function UserDashboard() {
       {/* Content */}
       <div className="relative z-10 text-center px-6 max-w-3xl">
         <h1 className="text-5xl font-extrabold mb-5 drop-shadow-lg tracking-wide text-yellow-100">
-          Welcome to Your Personal Book Haven
+          Welcome to Your Personal Book Heaven
         </h1>
         <p className="text-xl italic text-yellow-300 mb-8">
           “A reader lives a thousand lives before he dies. The man who never reads lives only one.”  
